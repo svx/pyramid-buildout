@@ -1,4 +1,4 @@
-EADME
+README
 ======
 
 This is a basic example buildout for Pyramid
