@@ -19,7 +19,7 @@ v::
         virtualenv --python=python2.7 --no-site-packages $MYPROJECTNAME
 
 
-*If you want to use python2.6, make sure you have installed all dependencies and replace python2.6 with python2.7* 
+**If you want to use python2.6, make sure you have installed all dependencies and replace python2.6 with python2.7** 
 
 after the creation its done do::
 
@@ -54,6 +54,7 @@ Rerun buildout and start your application::
 Credits
 -------
 The Pyramid Framework http://www.pylonsproject.org//projects/pyramid/about
+
 Simon Pamies http://simon.pamies.de
 
         
