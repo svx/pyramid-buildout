@@ -12,8 +12,7 @@ Make sure you have all dependencies you need/want, i prefer to install it into i
 
         apt-get install build-essential python-virtualenv
 
-go to/create /path/where/you/want/to/install/it for example /home/$USER/pyramid and create your vritualen
-v::
+go to/create /path/where/you/want/to/install/it for example /home/$USER/pyramid and create your vritualenv::
 
         virtualenv --python=python2.7 --no-site-packages $MYPROJECTNAME
 
