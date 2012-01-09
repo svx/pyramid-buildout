@@ -8,7 +8,7 @@ Installation
 
 Tested on Debian 7 [Wheezy] with python2.6 and python2.7
 
-Make sure you have all dependencies you need/want, i prefer to install it into its own virtual environment::
+Make sure you have all dependencies you need, i prefer to install it into its own virtual environment::
 
         apt-get install build-essential python-virtualenv
 
