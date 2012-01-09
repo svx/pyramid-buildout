@@ -39,19 +39,31 @@ this will install Pyramid ...
 
 Create your application::
 
-        mkdir src && cd src/
-        ../bin/paster create -t pyramid_starter myproject
+        bin/pcreate -s starter MyProject
+        
 
-Adopt your buildout and add src/myproject to develop-eggs and myproject to eggs parameter in [pyramid] section [see comments in buildout.cfg]
+Installing your Newly Created Project for Development::
 
-Rerun buildout and start your application::
+        cd MyProject
+        python setup.py develop
 
-        ./bin/buildout -Nvvv
-        ./bin/paster serve src/myproject/development.ini
+
+Running The Tests For Your Application::
+
+        python setup.py test -q
+
+
+
+Running The Project Application::
+
+        ../bin/pserve development.ini
+
 
 Credits
 -------
 The Pyramid Framework http://www.pylonsproject.org//projects/pyramid/about
+
+Docs http://docs.pylonsproject.org/projects/pyramid/en/1.3-branch/index.html
 
 Simon Pamies http://simon.pamies.de
 
