@@ -8,7 +8,7 @@ Installation
 
 Tested on Debian 7 [Wheezy] with python2.6 and python2.7
 
-Make sure you have all dependencies you need, i prefer to install it into its own virtual environment::
+Make sure you have all dependencies you need, I prefer to install it into its own virtual environment::
 
         apt-get install build-essential python-virtualenv
 
@@ -17,7 +17,7 @@ go to/create /path/where/you/want/to/install/it for example /home/$USER/pyramid 
         virtualenv --python=python2.7 --no-site-packages $MYPROJECTNAME
 
 
-**If you want to use python2.6, make sure you have installed all dependencies and replace python2.6 with python2.7** 
+**If you want to use python2.6, make sure you have installed all dependencies and replace python2.6 with python2.7**
 
 after the creation its done do::
 
@@ -62,7 +62,6 @@ Credits
 -------
 The Pyramid Framework http://www.pylonsproject.org//projects/pyramid/about
 
-Docs http://docs.pylonsproject.org/projects/pyramid/en/1.3-branch/index.html
 
 
 
