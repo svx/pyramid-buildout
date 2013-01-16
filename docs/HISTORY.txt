@@ -1,0 +1,6 @@
+Changelog
+----------
+
+16-01-2013 - svx
+
+    * add /docs/*

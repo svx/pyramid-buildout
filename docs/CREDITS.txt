@@ -1,0 +1,9 @@
+Share and Enjoy
+---------------
+
+``pyramid-buildout`` would not have been possible without the
+following people:
+
+- Chris McDonough
+- Paul Everitt
+- Sven Strack
