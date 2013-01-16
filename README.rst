@@ -40,7 +40,6 @@ this will install Pyramid ...
 Create your application::
 
         bin/pcreate -s starter MyProject
-        
 
 Installing your Newly Created Project for Development::
 
@@ -64,10 +63,6 @@ Credits
 The Pyramid Framework http://www.pylonsproject.org//projects/pyramid/about
 
 Docs http://docs.pylonsproject.org/projects/pyramid/en/1.3-branch/index.html
-
-Simon Pamies http://simon.pamies.de
-
-        
 
 
 

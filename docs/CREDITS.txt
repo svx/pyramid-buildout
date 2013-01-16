@@ -6,4 +6,5 @@ following people:
 
 - Chris McDonough
 - Paul Everitt
+- Simon Pamies
 - Sven Strack
