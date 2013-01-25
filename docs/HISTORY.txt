@@ -1,6 +1,8 @@
 Changelog
 ----------
+25-01-2013 - svx
+    * add: buildout.threatlevel to buildout.cfg
+
 
 16-01-2013 - svx
-
-    * add /docs/*
+    * add: docs/*
