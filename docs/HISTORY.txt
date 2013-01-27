@@ -1,7 +1,8 @@
 Changelog
 ----------
 27-01-2013 -svx
-    * add: newset = false to buildout
+    * add: newest = false to buildout
+    * add: .gitignore
 
 25-01-2013 - svx
     * add: buildout.threatlevel to buildout.cfg
